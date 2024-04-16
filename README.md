@@ -2,19 +2,14 @@
 
 
 ## Overview
-In this beginner-friendly project, we will delve into the world of time series analysis, focusing specifically on forecasting sensor data. Sensor data plays a crucial role in various fields, including IoT, environmental monitoring, manufacturing, and more. Accurately predicting future sensor readings is essential for proactive decision-making and optimizing system performance.
- 
+In this project, I delved into the world of time series analysis, focusing specifically on forecasting sensor data. Sensor data plays a crucial role in various fields, including IoT, environmental monitoring, manufacturing, and more. Accurately predicting future sensor readings is essential for proactive decision-making and optimizing system performance.
 
-We will begin by gaining a solid understanding of time series analysis and its significance in uncovering patterns and trends in temporal data. We will explore different types of time series, including continuous and discrete, and delve into the components that make up a time series, such as trend, seasonality, and irregularity.
- 
+I began by gaining a solid understanding of time series analysis and its significance in uncovering patterns and trends in temporal data. I explored different types of time series, including continuous and discrete, and delve into the components that make up a time series, such as trend, seasonality, and irregularity.
 
-To ensure reliable analysis, we will discuss the concept of stationarity and learn how to test for it using techniques like the Augmented Dickey-Fuller (ADF) and Kwiatkowski-Phillips-Schmidt-Shin (KPSS) tests. Additionally, we will utilize autocorrelation and partial autocorrelation functions (ACF and PACF) to identify dependencies and correlations in the sensor data.
- 
+To ensure reliable analysis, I familiarised myself with the concept of stationarity and learn how to test for it using techniques like the Augmented Dickey-Fuller (ADF) and Kwiatkowski-Phillips-Schmidt-Shin (KPSS) tests.
 
-Building upon this foundation, we will develop and apply moving average (MA) and autoregressive (AR) models specifically tailored for forecasting sensor data. These models will enable us to make accurate predictions and anticipate future readings based on historical patterns.
- 
-
-By the end of this project, you will have gained valuable skills in analyzing sensor data using time series analysis techniques and forecasting future values. This knowledge will empower you to make informed decisions, optimize system performance, and harness the power of predictive analytics in the context of sensor data.
+Additionally, I utilized autocorrelation and partial autocorrelation functions (ACF and PACF) to identify dependencies and correlations in the sensor data.
+Building upon this foundation, I developed and apply moving average (MA) and autoregressive (AR) models specifically tailored for forecasting sensor data. These models will enable us to make accurate predictions and anticipate future readings based on historical patterns.
 
 
 
